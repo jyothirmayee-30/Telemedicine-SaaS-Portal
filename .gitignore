@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.db
+exports/*.pdf
+exports/*.csv
+secrets.py
